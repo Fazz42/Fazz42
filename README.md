@@ -1,5 +1,5 @@
--Hi, I’m @Fazz42.\n
-I’m currently learning Python, HTML/CSS and Javascript. \n
+-Hi, I’m @Fazz42.  
+I’m currently learning Python, HTML/CSS and Javascript.  
 You can reach me via the email : mail@fazz.tech
 
 <!---
